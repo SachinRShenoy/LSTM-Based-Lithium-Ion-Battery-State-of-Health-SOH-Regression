@@ -1,0 +1,2 @@
+# LSTM-Based-Lithium-Ion-Battery-State-of-Health-SOH-Regression
+Core idea  Build a neural regression model that predicts the State of Health (SOH) of a lithium-ion battery from historical charge/discharge behaviour.  Instead of classifying battery condition into labels like healthy/degraded, the model predicts a continuous health percentage, which is the correct framing for a real prognostics problem.
